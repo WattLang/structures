@@ -6,7 +6,7 @@
 #include <string_view>
 
 
-namespace ws::token {
+namespace ws::structure {
     struct Position {
         using size_type = std::uint32_t;
 
